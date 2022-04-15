@@ -1,1 +1,1 @@
-web: gunicorn app_final:server
+web: gunicorn energyproductapp:app
