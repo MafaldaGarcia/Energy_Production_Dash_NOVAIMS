@@ -11,3 +11,4 @@ dash
 pandas
 numpy
 streamlit
+openpyxl
