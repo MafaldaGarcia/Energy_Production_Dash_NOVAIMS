@@ -10,4 +10,4 @@ dash-table
 dash
 pandas
 numpy
-steamlit
+streamlit
